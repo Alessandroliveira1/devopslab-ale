@@ -1,2 +1,2 @@
 # DEvops Hands On
-Aplicão simples em python/flask do laboratório Devops & cloud
+Aplicão simples em python/flask do laboratório Devops & cloud.
